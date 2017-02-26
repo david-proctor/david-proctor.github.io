@@ -26,9 +26,15 @@ excerpt-separator: <!--more-->
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# sass settings
+sass:
+  sass_dir: _sass
+
+# dark code theme is 'native' from https://github.com/jwarby/jekyll-pygments-themes

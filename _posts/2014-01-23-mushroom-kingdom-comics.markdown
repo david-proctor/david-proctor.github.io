@@ -1,52 +1,13 @@
 ---
 layout: post
-title:  "Atlantis"
-date:   2017-01-23 14:01:04 -0800
-categories: games gamejams
+title:  "Mushroom Kingdom Comics"
+date:   2015-01-23 14:01:04 -0800
+categories: art comics
 ---
-Atlantis is the game that I participated in making for the 2017 Global Game Jam. It's a couch-multiplayer undersea collection race. It's available for free.
+This is, in my opinion, the finest comic I have ever written.
 
-[Download for Windows (zip)][download] - 51 MB
-
-See also the official [Global Game Jam 2017 entry][ggj].
-
-# Summary
-
-Atlantis is a local multiplayer collection race. Up to four players each control octopuses competing to collect the most sushi from the underwater ruins of Atlantis within the time limit. I joined a team of strangers to create it in 48 hours for the 2017 Global Game Jam. The theme of the jam this year was "waves", which inspired us to make a local multiplayer racing game where players could affect each other using the wakes left behind themselves. The wake concept was eventually dropped, but what was left was a very nifty-looking and fully-functional undersea exploration game. In addition to hunting for and collecting the plates of sushi, players can also steal plates from each other, or let out a jet of ink to confuse attackers.
-
-# Images
-![Atlantis - gameplay]({{ site.url }}/assets/atlantis.png)
-![Atlantis - main menu]({{ site.url }}/assets/atlantis-menu.png)
-
-# Requirements
-
-I was able to run this game on a 2013 Macbook Pro at medium graphics settings.
-
-It also requires a gamepad for each player. We have only tested it using Xbox 360 controllers.
-
-# Credits
-
-In addition to myself, the following people made up the Atlantis team:
-* [Angie Yereum Son][angie-son]
-* [Calvin Chen][calvin-chen]
-* [Glen Pierce][glen-pierce]
-* [Jimmy Kim][jimmy-kim]
-* [Jonathan Leskowski][jonathan-leskowski]
-* [Kushal Trehan][kushal-trehan]
-* [Kyle Galvin][kyle-glavin]
-* [Mohammadjavad Fadaee Jonaghani][mo-fadaee]
-* [Nick Pelletier][nick-pelletier]
-* [Evelyn Yoa][evelyn-yoa]
-
-[download-]: http://ggj.s3.amazonaws.com/games/2017/01/22/1507/atlantis.zip
-[ggj]: http://globalgamejam.org/2017/games/atlantis-0
-[angie-son]: http://globalgamejam.org/users/angie-yereum-son
-[calvin-chen]: http://globalgamejam.org/users/calvin-chen
-[glen-pierce]: http://globalgamejam.org/users/glen-pierce
-[jimmy-kim]: http://globalgamejam.org/users/jjkk91
-[jonathan-leskowski]: http://globalgamejam.org/users/jleskows
-[kushal-trehan]: http://globalgamejam.org/users/kushalt
-[kyle-glavin]: http://globalgamejam.org/users/kylethedeveloper
-[mo-fadaee]: http://globalgamejam.org/users/mjfadaee
-[nick-pelletier]: http://globalgamejam.org/users/npelletier89
-[evelyn-yoa]: http://globalgamejam.org/users/yoaevelyngmailcom
+![Mushroom Kingdom Comics panel 1]({{ site.url }}/assets/mushroom-kingdom-comics-1.png)
+![Mushroom Kingdom Comics panel 2]({{ site.url }}/assets/mushroom-kingdom-comics-2.png)
+![Mushroom Kingdom Comics panel 3]({{ site.url }}/assets/mushroom-kingdom-comics-3.png)
+![Mushroom Kingdom Comics panel 4]({{ site.url }}/assets/mushroom-kingdom-comics-4.png)
+![Mushroom Kingdom Comics panel 5]({{ site.url }}/assets/mushroom-kingdom-comics-5.png)
