@@ -4,18 +4,20 @@
 // Define defaults for each variable.
 
 $base-font-family: "Roboto", sans-serif !default;
-$base-font-size:   18pt !default;
+$base-font-size:   12pt !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$heading-font-weight: 500 !default;
+$heading-font-weight: 400 !default;
+$heading-font-family: "League Gothic", display !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #aaa !default;
-$background-color: #111111 !default;
-$brand-color:      #cc0000 !default;
+$text-color:       #fff !default;
+$background-color: #232b2b !default;
+$brand-color:      #dc3d24 !default;
+$highlight-color:  #e3ae57 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -46,3 +48,12 @@ $on-laptop:        800px !default;
   "layout",
   "syntax-highlighting"
 ;
+
+@font-face {
+  font-family: "League Gothic";
+  src: url('leaguegothic-regular-webfont.eot'); /* IE9 Compat Modes */
+  src: url('leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('leaguegothic-regular-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('leaguegothic-regular-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('leaguegothic-regular-webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}

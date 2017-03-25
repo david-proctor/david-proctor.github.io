@@ -82,10 +82,10 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font-family;
   font-weight: $heading-font-weight;
   text-transform: uppercase;
-  color: $brand-color;
-  font-style: italic;
+  color: $highlight-color;
 }
 
 
@@ -167,7 +167,6 @@ pre {
     padding-left: $spacing-unit / 2;
   }
 }
-
 
 
 /**
