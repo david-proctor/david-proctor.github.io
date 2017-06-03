@@ -3,6 +3,8 @@ layout: post
 title:  "The Vacuum"
 date:   2008-08-04 14:01:04 -0800
 categories: games
+featured-image: the-vacuum-sst-bridge.png
+featured-image-caption: The Vacuum
 ---
 The Vacuum is a retro point-and-click adventure game that I made in the summer of 2008. It is available for free.<!--more-->
 

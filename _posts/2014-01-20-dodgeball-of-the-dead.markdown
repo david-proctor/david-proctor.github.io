@@ -3,6 +3,7 @@ layout: post
 title:  "Dodgeball of the Dead"
 date:   2014-01-20 14:01:04 -0800
 categories: games gamejams
+featured-image: dodgeball-of-the-dead.png
 ---
 Dodgeball of the Dead is the entry that I participated in during Global Game Jam 2014. It’s a subjective online first-person shooter with dodgeballs and ghosts, and it’s open-source.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Ungodly Polka"
 date:   2013-02-20 14:01:04 -0800
 categories: games gamejams
+featured-image: ungodly-polka.png
 ---
 Ungodly Polka is the first game jam game I ever made. It was a collaboration between Marta and myself at the University of Victoria’s Tsukino-Con. The theme of the jam was “magical girls,” which I admit that I needed to have explained to me. It’s a simple DDR-like.<!--more-->
 

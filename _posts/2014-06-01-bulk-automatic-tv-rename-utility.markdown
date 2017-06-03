@@ -3,6 +3,7 @@ layout: post
 title:  "Bulk automatic TV rename utility"
 date:   2014-06-01 14:01:04 -0800
 categories: software batru
+featured-image: batru.png
 ---
 Rename all your TV episode files to something reasonable with just a few clicks.<!--more-->
 

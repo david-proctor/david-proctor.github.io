@@ -3,6 +3,8 @@ layout: post
 title:  "Mushroom Kingdom Comics"
 date:   2015-01-23 14:01:04 -0800
 categories: art comics
+featured-image: mushroom-kingdom-comics-3.png
+hide-featured-image: true
 ---
 This is, in my opinion, the finest comic I have ever written.
 

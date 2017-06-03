@@ -46,6 +46,15 @@ img {
   max-width: 100%;
   vertical-align: middle;
 }
+.caption {
+  background-color: $black;
+  color: $grey-color;
+  margin-bottom: 1em;
+  p {
+    font-size: $small-font-size;
+    padding: 0.5em;
+  }
+}
 
 
 
