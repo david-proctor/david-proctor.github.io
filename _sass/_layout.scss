@@ -184,7 +184,69 @@
   font-size: 24px;
 }
 
+/**
+ * Showcase
+ */
+.showcase {
+  background: $separate-color;
+  padding: 0.6em;
+  margin-bottom: 1em;
+  overflow: auto;
+  margin-left: 5em;
+  * {
+    margin-left: 215px;
+  }
+  img {
+    margin-bottom: 0;
+    width: 200px;
+    height: auto;
+    float: left;
+    margin-right: 1em;
+    margin-left: 0;
+  }
+  h2{
+    margin-left: 0;
+    a{
+      color: $brand-color;
+    }
+  }
+  a{
+    margin-left: 0;
+    color: $highlight-color;
+  }
+}
+/**
+ * Promoted
+ */
+.promoted {
+  background: $highlight-color;
+  color: $black;
+  margin-left: 0;
+  img {
+    width: 280px;
+  }
+  a {
+    color: $brand-color;
+  }
+}
 
+.also {
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1;
+  float: left;
+
+  @include media-query($on-laptop) {
+  font-size: 36px;
+  }
+}
+
+.slogan {
+  text-align: center;
+  padding: 0 5em;
+  line-height: 1.2;
+  color: $text-color;
+}
 
 /**
  * Posts

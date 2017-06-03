@@ -2,9 +2,8 @@
 layout: post
 title:  "Atlantis"
 date:   2017-01-23 14:01:04 -0800
-categories: games gamejams
+categories: games gamejams front
 featured-image: atlantis.png
-featured-alt: Atlantis screenshot
 ---
 Atlantis is the game that I participated in making for the 2017 Global Game Jam. It's a couch-multiplayer undersea collection race. It's available for free.
 
