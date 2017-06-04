@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   David Proctor: Programmer. Artist. Legend. I'm a software developer with extensive experience in C#, C++, Java, Python, and various other languages. 
   This site collects my personal projects and work that I produce as a hobby.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.davidproctor.io" # the base hostname & protocol for your site
+url: "http://www.davidproctor.io" # the base hostname & protocol for your site
 twitter_username: david_proctor
 github_username:  david-proctor
 bitbucket_username: DavidProctor

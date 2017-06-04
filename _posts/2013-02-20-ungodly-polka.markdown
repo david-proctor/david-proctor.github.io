@@ -12,4 +12,4 @@ This game was written in [crafty.js][crafty] over 48 hours in February 2013. If 
 [Crank your speakers and click here.][game]
 
 [crafty]: http://craftyjs.com/
-[game]: http://www.davidproctor.ca/ungodlyPolka/
+[game]: http://www.davidproctor.io/ungodlyPolka/

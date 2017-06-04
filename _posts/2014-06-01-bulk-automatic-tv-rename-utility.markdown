@@ -36,5 +36,5 @@ I don’t have any fancy support structure going for this software, so report an
 
 [gpl]: https://www.gnu.org/licenses/gpl-3.0.html
 [dotnet]: http://www.microsoft.com/en-us/download/details.aspx?id=30653
-[download]: http://davidproctor.ca/wp-content/uploads/2014/06/Bulk-Automatic-TV-Rename-Utility1.zip
-[source]: https://bitbucket.org/Taepodong/bulk-automatic-tv-rename-utility
+[download]: http://davidproctor.io/wp-content/uploads/2014/06/Bulk-Automatic-TV-Rename-Utility1.zip
+[source]: https://bitbucket.org/DavidProctor/bulk-automatic-tv-rename-utility

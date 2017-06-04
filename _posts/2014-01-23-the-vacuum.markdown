@@ -34,4 +34,4 @@ Thanks to a team of “volunteers”, The Vacuum can be played in English, Frenc
 ![The Vacuum screenshot - bridge]({{ site.url }}/assets/the-vacuum-sst-bridge.png)
 ![The Vacuum screenshot - cargo]({{ site.url }}/assets/the-vacuum-sst-cargo.png)
 
-[download]: http://davidproctor.ca/wp-content/uploads/2014/01/thevacuum.zip
+[download]: http://davidproctor.io/wp-content/uploads/2014/01/thevacuum.zip
