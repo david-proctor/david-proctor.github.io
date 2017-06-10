@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 ---
 {% unless page.content == '' %}
-  <p>{{ page.content }}</p>
+  {{ page.content }}
 {% endunless %}
 
 {% unless site.categories.[page.category] | size > 0 %}

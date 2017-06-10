@@ -2,4 +2,4 @@
 layout: category
 category: front
 ---
-<h2 class="slogan">I am David Proctor, computer programmer and creator of fine internet detritus.</h2>
+<h1 class="slogan">I am David Proctor, computer programmer and creator of fine internet detritus.</h2>
