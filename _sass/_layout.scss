@@ -17,6 +17,11 @@
   float: left;
   text-transform: uppercase;
   color: $text-color;
+
+  @include media-query($on-palm) {
+    width: 100%;
+    text-align: center;
+  }
 }
 
 .site-nav {
@@ -24,8 +29,20 @@
   background-color: $brand-color;
   width: 100%;
 
-  .menu-icon {
-    display: none;
+  @include media-query($on-palm) {
+    background-color: $background-color;
+  }
+
+  li {
+    list-style-type: none;
+    display: inline;
+
+    @include media-query($on-palm) {
+      display: block;
+      text-align: center;
+      background-color: $brand-color;
+      margin: 0.25em 0;
+    }
   }
 
   .page-link {
@@ -35,49 +52,9 @@
     font-family: $heading-font-family;
     font-size: 18pt;
     text-transform: uppercase;
-  }
 
-  @include media-query($on-palm) {
-    position: absolute;
-    top: 9px;
-    right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: right;
-
-    .menu-icon {
-      display: block;
-      float: right;
-      width: 36px;
-      height: 26px;
-      line-height: 0;
-      padding-top: 10px;
-      text-align: center;
-
-      > svg path {
-        fill: $grey-color-dark;
-      }
-    }
-
-    .trigger {
-      clear: both;
-      display: none;
-    }
-
-    &:hover .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
-
-    .page-link {
-      display: block;
-      padding: 5px 10px;
-
-      &:not(:last-child) {
-        margin-right: 0;
-      }
-      margin-left: 20px;
+    @include media-query($on-palm) {
+      margin: 0;
     }
   }
 }
@@ -217,6 +194,15 @@
     margin-left: 0;
     color: $highlight-color;
   }
+  @include media-query($on-palm) {
+    margin-left: 0;
+    * {
+      margin-left: 0;
+    }
+    img {
+      width: auto;
+    }
+  }
 }
 /**
  * Promoted
@@ -227,6 +213,9 @@
   margin-left: 0;
   img {
     width: 280px;
+    @include media-query($on-palm) {
+      width: auto;
+    }
   }
   a {
     color: $brand-color;
@@ -240,7 +229,10 @@
   float: left;
 
   @include media-query($on-laptop) {
-  font-size: 36px;
+    font-size: 36px;
+  }
+  @include media-query($on-palm) {
+    display: none;
   }
 }
 
@@ -249,6 +241,10 @@
   padding: 0 5em;
   line-height: 1.2;
   color: $text-color;
+
+  @include media-query($on-palm) {
+    padding: 0;
+  }
 }
 
 /**
