@@ -19,7 +19,7 @@ layout: default
   <p><a href="{{ post.url | prepend: site.baseurl }}">Read More</a></p>
 </div>
 
-{% if forloop.index == 1 %}
+{% if forloop.index == 1 and site.categories[page.category].size > 1 %}
 <h1 class="also">ALSO:</h1>
 {% endif %}
 {% endfor %}
