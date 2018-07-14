@@ -6,7 +6,7 @@ categories: art comics
 featured-image: mushroom-kingdom-comics-3.png
 hide-featured-image: true
 ---
-This is, in my opinion, the finest comic I have ever written.
+This is, in my opinion, the finest comic I have ever written.<!--more-->
 
 ![Mushroom Kingdom Comics panel 1]({{ site.url }}/assets/mushroom-kingdom-comics-1.png)
 ![Mushroom Kingdom Comics panel 2]({{ site.url }}/assets/mushroom-kingdom-comics-2.png)

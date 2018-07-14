@@ -5,7 +5,7 @@ date:   2017-01-23 14:01:04 -0800
 categories: games gamejams front
 featured-image: atlantis.png
 ---
-Atlantis is the game that I participated in making for the 2017 Global Game Jam. It's a couch-multiplayer undersea collection race. It's available for free.
+Atlantis is the game that I participated in making for the 2017 Global Game Jam. It's a couch-multiplayer undersea collection race. It's available for free.<!--more-->
 
 [Download for Windows (zip)][download] - 51 MB
 
@@ -16,6 +16,7 @@ See also the official [Global Game Jam 2017 entry][ggj].
 Atlantis is a local multiplayer collection race. Up to four players each control octopuses competing to collect the most sushi from the underwater ruins of Atlantis within the time limit. I joined a team of strangers to create it in 48 hours for the 2017 Global Game Jam. The theme of the jam this year was "waves", which inspired us to make a local multiplayer racing game where players could affect each other using the wakes left behind themselves. The wake concept was eventually dropped, but what was left was a very nifty-looking and fully-functional undersea exploration game. In addition to hunting for and collecting the plates of sushi, players can also steal plates from each other, or let out a jet of ink to confuse attackers.
 
 # Images
+
 ![Atlantis - gameplay]({{ site.url }}/assets/atlantis.png)
 ![Atlantis - main menu]({{ site.url }}/assets/atlantis-menu.png)
 

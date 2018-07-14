@@ -24,7 +24,7 @@ github_username:  david-proctor
 bitbucket_username: DavidProctor
 linkedin_username: david-proctor
 
-excerpt-separator: <!--more-->
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
