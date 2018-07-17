@@ -2,11 +2,11 @@
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  
+
   {% if page.featured-image and page.hide-featured-image != true %}
   <div class="caption">
-    <img src="{{ site.url }}/assets/{{ page.featured-image }}" {% if page.featured-image-alt %}alt="{{ page.featured-image-alt }}" title="{{ page.featured-image-alt }}"{% endif %} />
-    {% if page.featured-image-caption %}<p>{{ page.featured-image-caption }}</p>{% endif %}
+    {% assign image_path = '/assets/' | append: page.featured-image %}
+    {% image_tag src=image_path width=740 alt=page.featured-image-alt title=page.featured-image-alt %}
   </div>
   {% endif %}
 
