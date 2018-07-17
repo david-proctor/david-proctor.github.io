@@ -17,7 +17,7 @@ layout: default
 {% endif %}
 <div class="showcase {% if is_promoted == true %}promoted{% endif %}">
   <a href="{{ post.url | prepend: site.baseurl }}">
-    {% assign image_path = 'assets/' | append: post.featured-image %}
+    {% assign image_path = '/assets/' | append: post.featured-image %}
     {% if is_promoted == true %}
       {% image_tag src=image_path width=280 %}
     {% else %}
