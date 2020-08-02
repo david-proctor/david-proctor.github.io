@@ -6,17 +6,17 @@ categories: games
 featured-image: the-vacuum-sst-bridge.png
 featured-image-caption: The Vacuum
 ---
-The Vacuum is a retro point-and-click adventure game that I made in the summer of 2008. It is available for free.<!--more-->
+The Vacuum is a retro point-and-click adventure game that I made in the summer of 2008. Pay what you want (or don't pay at all).<!--more-->
 
-[Click here to download The Vacuum, version 1.3][download] (4.3 MB)
+<iframe src="https://itch.io/embed/706030?dark=true" width="552" height="167" frameborder="0"><a href="https://davidproctor.itch.io/vacuum">The Vacuum by davidproctor</a></iframe>
 
 ## Summary
 
-In The Vacuum, you play Leo Wallace, a young student headed home for the summer on a 24th-century space freighter when the journey is interrupted by two explosions tearing through the passenger quarters. Stranded in deep space with the crew missing and no help available, you must determine what caused the accident and how to fix it — if it was an accident at all.
+In The Vacuum, you play a student headed home for the summer on a 24th-century space freighter when the journey is interrupted by two explosions tearing through the passenger quarters. Stranded in deep space with the crew missing and no help available, you must determine what caused the accident and how to fix it — if it was an accident at all.
 
-I designed this game to be a throwback to the old Sierra adventure games I grew up with, with a few changes for the modern age. This game features a non-linear storyline that responds strongly to player actions at all stages of the plot, and emphasizes character interactions, investigation, and logic over the obtuse and illogical inventory puzzles that were the main cause of the adventure genre’s death in my view. Despite some rather regrettable dialogue, the game was well-received by its audiences, and I’m proud of it.
+It's a retro point-and-click adventure with some updates for the 21st century. The Vacuum features a non-linear plot that responds strongly to player actions at all stages, and it emphasizes character interactions and investigation over the obtuse and illogical inventory puzzles that were the main cause of the adventure genre’s death in my view.
 
-Thanks to a team of “volunteers”, The Vacuum can be played in English, French, German, or Italian.
+I made this game in the summer of 2008 in Adventure Game Studio. Thanks to a team of “volunteers”, The Vacuum can be played in English, French, German, or Italian.
 
 ## Requirements
 
@@ -33,5 +33,3 @@ Thanks to a team of “volunteers”, The Vacuum can be played in English, Frenc
 ![The Vacuum screenshot - airlock]({{ site.url }}/assets/the-vacuum-sst-airlock.png)
 ![The Vacuum screenshot - bridge]({{ site.url }}/assets/the-vacuum-sst-bridge.png)
 ![The Vacuum screenshot - cargo]({{ site.url }}/assets/the-vacuum-sst-cargo.png)
-
-[download]: http://davidproctor.io/wp-content/uploads/2014/01/thevacuum.zip
